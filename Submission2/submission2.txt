@@ -1,0 +1,20 @@
+Link to unlisted youtube video:
+
+
+Link to the slide:
+
+
+Paper title:
+Resource Management and Scheduling in Distributed
+Stream Processing Systems: A Taxonomy, Review, and
+Future Directions
+
+Link to the paper:
+https://dl.acm.org/doi/abs/10.1145/3355399
+
+Group Number:
+11
+
+Group Members:
+Name:-Shiva Bahadur Pathak id:- 21166052
+Name:-Suvro Debnath id:- 21266011
