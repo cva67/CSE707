@@ -4,6 +4,7 @@ https://youtu.be/Y6Ev8GIlbxc
 https://youtu.be/K0Ta65OqQkY
 https://youtu.be/G14WMD8Kg3U
 https://youtu.be/gwWKnnCMQ5c
+https://www.youtube.com/playlist?list=PLB4tvLCynFjR1C5Okvtc5kb8RICXJqhf4
 
 completed book:
 https://etheses.whiterose.ac.uk/4395/1/uk_bl_ethos_305426.pdf (important chapter)
